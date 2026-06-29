@@ -2,8 +2,7 @@
 ## Download
 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/priyanshuranjan818/VocabNoteBook/raw/main/LearnWithHaxx.apk)
-> You write the word in your notebook. A week later, you've forgotten how it sounds. **VokabelBox fixes that.**
-> CLICK on Download to Download the APP
+> Click on Download Buttion to Download
 
 ---
 
