@@ -46,3 +46,11 @@ Move your word list in and out of the app freely. Export to back up your vocabul
 5. **Keep your streak alive** — Open the app daily. Check the Streaks section to see your progress.
 6. **Back up your list** — Use Export to save your vocabulary. Use Import to restore or load a new word set.
 
+## Screenshots
+
+![Home](screenshots/photo_2026-06-29_13-00-59.jpg)
+![Screen 2](screenshots/photo_2026-06-29_13-01-24.jpg)
+![Screen 3](screenshots/photo_2026-06-29_13-01-30.jpg)
+![Screen 4](screenshots/photo_2026-06-29_13-01-34.jpg)
+![Screen 5](screenshots/photo_2026-06-29_13-01-38.jpg)
+
